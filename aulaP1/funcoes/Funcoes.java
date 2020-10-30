@@ -1,6 +1,5 @@
 package aulaP1.funcoes;
 
-import java.util.Scanner;
 
 public class Funcoes {
 	static int soma(int a, int b) {
@@ -33,6 +32,7 @@ public class Funcoes {
 	
 	public static void main(String[] args) {
 		String frase = ola();
+		System.out.println(frase);
 		//testes de soma
 		System.out.println(soma(5,10)==15);
 		System.out.println(soma(5,-10)==-5);
@@ -54,6 +54,4 @@ public class Funcoes {
 }
 
 
-
-//5*4 = 5 + 5 + 5 + 5
 
