@@ -1,5 +1,5 @@
 # ProgramacaoII - códigos de exemplo
-Repositório dos códigos de exemplo utilizados na disciplina de ProgramaçãoII do curso integrado técnico em Informática do IFRS - Campus Osorio.
+Repositório dos códigos de exemplo utilizados na disciplina de **ProgramaçãoII do curso técnico em Informática Integrado ao Ensino Médio do IFRS - Campus Osorio**.
 # Conteúdos:
 ## aula P1
 * Revisão de Programação I (Java) --> entrada/saída, estruturas de seleção, estruturas de repetição e vetores.
