@@ -18,15 +18,8 @@ Repositório dos códigos de exemplo utilizados na disciplina de **Programação
 * componentes estáticos
 
 ## c2-aula2
-* Como associar as nossas classes
-** Agregação
-** Composição
-* Herança:
-
-** superclasses e subclasses
-** modificar de acesso protected
-** reescrita de métodos
-** reutilização de construtor e métodos da superclasse
+* Como associar as nossas classes --> Associação genérica, Agregação e composição
+* Herança --> Superclasses e subclasses, modificador de acesso protected, reescrita de métodos e reutilização de construtor e métodos da superclasse.
 
 ## c2-aula3
 * Classe abstrata
