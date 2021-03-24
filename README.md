@@ -16,3 +16,20 @@ Repositório dos códigos de exemplo utilizados na disciplina de **Programação
 * identidade X igualdade e comparação
 * mutabilidade de objetos
 * componentes estáticos
+
+## c2-aula2
+* Como associar as nossas classes
+** Agregação
+** Composição
+* Herança:
+
+** superclasses e subclasses
+** modificar de acesso protected
+** reescrita de métodos
+** reutilização de construtor e métodos da superclasse
+
+## c2-aula3
+* Classe abstrata
+* Métodos abstratos
+* Herdando de classes abstratas
+* Ganhos do polimorfismo junto com herança
