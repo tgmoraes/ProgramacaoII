@@ -26,3 +26,22 @@ Repositório dos códigos de exemplo utilizados na disciplina de **Programação
 * Métodos abstratos
 * Herdando de classes abstratas
 * Ganhos do polimorfismo junto com herança
+
+# Conteúdos do contínuo:
+## cont1-interfaces
+* sintaxe para criação e implementação de interfaces
+* introdução a telas gráficas
+* ganhos com o polimorfismo
+* interfaces X herança
+
+## cont2-exceptions
+* Tipos de exceções e árvore das classes de exceptions no Java
+* Manipulando exceções verificadas e não verificadas com os devidos comandos do Java
+* Criando um novo tipo de exceção
+
+## cont3-arquivos
+* Pacotes que trabalham com IO no java
+* criar e excluir diretórios e arquivos
+* mover e copiar arquivos
+* buscar no conteúdo de uma pasta ou diretório
+* ler e escrever em arquivo texto
